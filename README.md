@@ -27,7 +27,7 @@ I am Efraim B. Adenit, a passionate coder with a knack for database management. 
 
 ## Reach Me
 
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/efraim-adenit-8800a61a0/)
+- **LinkedIn:** [Efraim-Adenit](https://www.linkedin.com/in/efraim-adenit-8800a61a0/)
 - **Email:** EfraimAdenit01@gmail.com
 
 Let's connect and collaborate on exciting projects! 🚀
