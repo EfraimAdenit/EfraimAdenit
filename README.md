@@ -19,7 +19,7 @@ I am Efraim B. Adenit, a passionate coder with a knack for database management. 
 ## Skills
 
 - **Programming:**
-  - Java, Javascript
+  - Java, Javascript, Kotlin, Python
 - **Databases:**
   - IBM DB2 Cloud
 - **Tools:**
